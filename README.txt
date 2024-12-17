@@ -1,3 +1,16 @@
+🚀 Building on Blockchain: BlueToken - ERC-20 Token
+I recently developed my first ERC-20 compliant token, BlueToken, as a hands-on project to deepen my understanding of Solidity and blockchain development.
+📊 Project Highlights:
+Step-by-step guide for creating and testing an ERC-20 token.
+Deployed and tested using Remix IDE.
+A beginner-friendly approach for exploring blockchain solutions.
+🔗 Read the detailed guides here (eng and turkish version):
+🇬🇧 https://lnkd.in/dwBtNBxq
+🇬🇧 https://lnkd.in/dDs3kPyX
+--
+🇹🇷 https://lnkd.in/dZjP2PtM
+🇹🇷 Medium doesn't allow more than 3 posts to be shared in a single day, so this one will be live tomorrow.
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
