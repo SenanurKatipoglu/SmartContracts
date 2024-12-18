@@ -1,3 +1,5 @@
+Created by KATIPOGLU 
+
 🚀 Building on Blockchain: BlueToken - ERC-20 Token
 I recently developed my first ERC-20 compliant token, BlueToken, as a hands-on project to deepen my understanding of Solidity and blockchain development.
 📊 Project Highlights:
